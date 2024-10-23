@@ -12,7 +12,7 @@
   - Applied label encoding on categorical columns to prepare data for modeling.
 
 - **Handling Class Imbalance:**
-  - The target variable was biased towards class 1 (high-income group). Oversampled the minority class to balance the dataset.
+  - The target variable was biased towards class 0 (low-income group). Oversampled the minority class to balance the dataset.
 
 - **Feature Importance Analysis:**
   - Identified top important features as "age", "education", "capital-gain", "hours-per-week", and "occupation".
